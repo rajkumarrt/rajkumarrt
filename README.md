@@ -6,6 +6,7 @@
 </p>
 
 <p>   I am an IT Services Management professional with more than 14 years of working with different IT teams to implement environment administration services and solutions for optimal usage of test environments to the business systems in Banking & Finance. I have managed multi-disciplinary project teams in Waterfall and Agile, leading both onshore & offshore resources. 
+  
 Strong knowledge of Agile, SDLC and ITIL methodologies. Planning, estimating, scheduling & tracking, risk & issue management and execution of projects from inception. 
 Managed transformation initiatives for improvement in quality and productivity
 
