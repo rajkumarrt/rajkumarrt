@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajkumar RT</h1>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajkumarrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumarrt" height="30" width="40" /></a>
+</p>
+
 <p>   I am an IT Services Management professional with more than 14 years of working with different IT teams to implement environment administration services and solutions for optimal usage of test environments to the business systems in Banking & Finance. I have managed multi-disciplinary project teams in Waterfall and Agile, leading both onshore & offshore resources. 
 Strong knowledge of Agile, SDLC and ITIL methodologies. Planning, estimating, scheduling & tracking, risk & issue management and execution of projects from inception. 
 Managed transformation initiatives for improvement in quality and productivity
