@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rajkumar RT</h1>
-<h3 align="center">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h3>
+<h5 align="center">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h5>
 
 - 🌱 I’m currently learning **Kubernetes and PMP**
 
-- 💬 Ask me about **Linux, Docker and Kubernetes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Connect with me:
 <a href="https://linkedin.com/in/rajkumarrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumarrt" height="30" width="40" /></a>
 </p>
 
 </p>
 <h3 align="left">
 Professional Qualifications & Certifications </h3>
-<p align="left"> Prince 2</p>![Prince2](https://user-images.githubusercontent.com/77945664/125901588-893c8a17-61d7-4f84-96cb-0f929c623e1e.PNG)
-<p align="left">ITIL V4</p> ![itil](https://user-images.githubusercontent.com/77945664/125901830-1727e978-e70e-4535-90d7-1251c88a3ca0.PNG)
-<p align="left">COBIT</p> ![cobit](https://user-images.githubusercontent.com/77945664/125901891-7f2d30b6-e62f-458e-ae43-61d727fbe8f4.PNG)
+<p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Prince2.PNG" alt="Prince 2" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/itil.PNG" alt="ITIL 4" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.isaca.org/resources/cobit" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/cobit.PNG" alt="COBIT" width="40" height="40"/> </a></p>
 <p align="left">M.Tech (CS), M.sc(IT), BCA and D.C.Tech </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 
 <p align="left"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Liunx.PNG" alt="Linux" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-in/windows-server" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/windows.PNG" alt="Windows" width="40" height="40"/> </a> </p>
 
@@ -33,13 +30,13 @@ Professional Qualifications & Certifications </h3>
 
 <p align="left"> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
 
- <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://bitbucket.org/product/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/bitbucket.PNG" alt="Bitbucket" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/GitHub-Mark-120px-plus.png" alt="GitHub" width="40" height="40"/></a></p>
  
- <p align="left"> ![bmc](https://user-images.githubusercontent.com/77945664/125903729-0663526e-9b17-4b1e-b5f3-1d381274bea3.PNG) </p>
+<p align="left"> <a href="https://www.bmc.com/it-solutions/control-m.html" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/bmc.PNG" alt="Control-M" width="40" height="40"/> </a> </p>
 
- <p align="left"> ![iis](https://user-images.githubusercontent.com/77945664/125904180-a2f11663-1344-42e5-9681-d8360f80d6c8.PNG) ![nginx](https://user-images.githubusercontent.com/77945664/125904222-ba0b26a8-4a5c-4b7c-a87b-be7786cc2cc7.PNG)
-![jboss](https://user-images.githubusercontent.com/77945664/125904250-b764a20d-abcd-4c36-ada3-aa3e75b983a1.PNG)
-</p>
+<p align="left"> <a href="https://www.bmc.com/it-solutions/control-m.html" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/iis.PNG" alt="IIS" width="40" height="40"/> </a>  <a href="https://www.jboss.org/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/jboss.PNG" alt="Jboss" width="40" height="40"/> </a> <a href="nginx.com" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/nginx.PNG" alt="nginx" width="40" height="40"/> </a> </p>
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajkumarrt.visitor-badge)
