@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar RT</h1>
-<h5 align="center">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h5>
+<h3 align="left">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h3>
 
 <p align="left"> Connect with me:
 <a href="https://linkedin.com/in/rajkumarrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumarrt" height="30" width="40" /></a>
