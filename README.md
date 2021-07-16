@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rajkumar RT</h1>
 <h5 align="center">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h5>
 
-- 🌱 I’m currently learning **Kubernetes and PMP**
-
 <p align="left"> Connect with me:
 <a href="https://linkedin.com/in/rajkumarrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumarrt" height="30" width="40" /></a>
 </p>
 
-</p>
 <h3 align="left">
 Professional Qualifications & Certifications </h3>
-<p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Prince2.PNG" alt="Prince 2" width="40" height="40"/> </a><
-<a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/itil.PNG" alt="ITIL 4" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Prince2.PNG" alt="Prince 2" width="40" height="40"/> </a>
+<a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/itil.PNG" alt="ITIL 4" width="40" height="40"/> </a>
  <a href="https://www.isaca.org/resources/cobit" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/cobit.PNG" alt="COBIT" width="40" height="40"/> </a><
 <p align="left">M.Tech (CS), M.sc(IT), BCA and D.C.Tech </p>
 
