@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar RT</h1>
-<h3 align="left">With a strong Linux background and 15+ years of experience designing, implementing, and managing environments on on-prem and cloud resources.</h3>
+<h3 align="left">Designing, implementing, and managing environments and applications on on-prem and cloud resources.</h3>
 
 <p align="left"> Connect with me:
 <a href="https://linkedin.com/in/rajkumarrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumarrt" height="30" width="40" /></a>
@@ -32,8 +32,6 @@ Professional Qualifications & Certifications </h3>
 <a href="https://github.com/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/GitHub-Mark-120px-plus.png" alt="GitHub" width="40" height="40"/></a></p>
  
 <p align="left"> <a href="https://www.bmc.com/it-solutions/control-m.html" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/bmc.PNG" alt="Control-M" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="https://www.bmc.com/it-solutions/control-m.html" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/iis.PNG" alt="IIS" width="40" height="40"/> </a>  <a href="https://www.jboss.org/" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/jboss.PNG" alt="Jboss" width="40" height="40"/> </a> <a href="nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a> </p>
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajkumarrt.visitor-badge)
