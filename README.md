@@ -10,15 +10,9 @@ Professional Qualifications & Certifications </h3>
 <p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Prince2.PNG" alt="Prince 2" width="40" height="40"/> </a>
 <a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/itil.PNG" alt="ITIL 4" width="40" height="40"/> </a>
  <a href="https://www.isaca.org/resources/cobit" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/cobit.PNG" alt="COBIT" width="40" height="40"/> </a>
-<p align="left">M.Tech (CS), M.sc(IT), BCA and D.C.Tech </p>
 
 
 <h3 align="left">Tools:</h3>
-
-<p align="left"> <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-in/windows-server" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> </a> </p>
-
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
 
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
