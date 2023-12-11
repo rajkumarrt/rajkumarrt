@@ -7,7 +7,7 @@
 
 <h3 align="left">
 Certifications </h3>
-<p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/Prince2.PNG" alt="Prince 2" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.peoplecert.org/prince2-certification-family" target="_blank">  </a>
 <a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/itil.PNG" alt="ITIL 4" width="40" height="40"/> </a>
  <a href="https://www.isaca.org/resources/cobit" target="_blank"> <img src="https://github.com/rajkumarrt/icons/blob/main/cobit.PNG" alt="COBIT" width="40" height="40"/> </a>
 
